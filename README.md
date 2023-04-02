@@ -9,3 +9,6 @@ reactions of a human being on a pre- recorded video. There are 7 common emotions
 Such facial expression recognition programs, when made more complex, will have significant future applications in cybernetics by furthering 
 a more human-like interaction between machines and humans. This could have extended applications for mental healthcare facilities by recognizing 
 emotions indicating common symptoms of depression, stress and anxiety among people.
+
+The model architecture is as follows:
+![image](https://user-images.githubusercontent.com/114347106/229342783-026e64a5-cb55-4174-98f6-dac30a7a09b6.png)
