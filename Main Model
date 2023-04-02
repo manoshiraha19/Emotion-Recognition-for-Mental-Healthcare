@@ -32,7 +32,7 @@ images = images.reshape(images.shape[0],48,48,1).astype('float32')
 plt.imshow(images[0][:,:,0])
 Expressions[labels[0][0]]
 
-train_images,text_images,train_labels,test_labels = train_test_split(images,labes,test_size=0.2,random_state=0)
+train_images,test_images,train_labels,test_labels = train_test_split(images,labels,test_size=0.2,random_state=0)
 
 train_labels
 
@@ -62,7 +62,7 @@ def create_convolutional_model(classes):
     
     model.add(Dense(256,activation='relu'))
     model.add(BatchNormalization())
-        model.add(Dropout(0.25))
+    model.add(Dropout(0.25))
     
     model.add(Dense(512,activation='relu'))
     model.add(BatchNormalization())
