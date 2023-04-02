@@ -11,4 +11,17 @@ a more human-like interaction between machines and humans. This could have exten
 emotions indicating common symptoms of depression, stress and anxiety among people.
 
 The model architecture is as follows:
+
 ![image](https://user-images.githubusercontent.com/114347106/229342783-026e64a5-cb55-4174-98f6-dac30a7a09b6.png)
+
+Performance Analysis:
+
+![image](https://user-images.githubusercontent.com/114347106/229342863-05168ec9-5b31-4510-9ba4-de1a952785e5.png)
+
+The Outcomes:
+
+![image](https://user-images.githubusercontent.com/114347106/229342881-932415ce-a607-47cf-9ca1-62388a8509d2.png)
+
+![image](https://user-images.githubusercontent.com/114347106/229342902-efa5a0d1-8c1c-427b-af2e-ba660ba542bb.png)
+
+![image](https://user-images.githubusercontent.com/114347106/229342913-9c7d2e7f-4586-4816-8063-9768ea4d599b.png)
